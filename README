@@ -1,0 +1,12 @@
+Aviel Sabbag--811398573--Alex Nguyen--811038382
+
+Instructions:
+	Compile:
+		Use command 'make compile'
+	Clean:
+		Use command 'make clean'
+	Run:
+		Use commmand 'make run'
+		Follow code prompts until complete, enter a negative number
+		to terminate program
+
